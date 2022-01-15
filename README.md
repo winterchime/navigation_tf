@@ -18,6 +18,10 @@ cd your_ws
 catkin_make
 ```
 
+```bash
+source devel/setup.bash
+```
+
 In Shell 1
 ```bash
 roscore
